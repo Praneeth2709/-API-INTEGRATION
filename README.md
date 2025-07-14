@@ -24,3 +24,7 @@ All of this was done using a basic code editor, like VS Code, and the webpage ca
 If the API or the type of data changes in the future, only the JavaScript code that handles the API request and processes the response would need to be updated. The rest of the page structure and styling can stay the same, unless the new data requires a different layout.
 
 The overall approach was to keep things simple and easy to follow, focusing on the core functionality of fetching and displaying live data from an external source.
+
+
+#OUTPUT
+<img width="584" height="547" alt="Image" src="https://github.com/user-attachments/assets/628c735f-eb17-4e60-bbff-9f3d1abfa13e" />
